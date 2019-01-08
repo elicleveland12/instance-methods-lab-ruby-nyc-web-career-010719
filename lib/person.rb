@@ -4,4 +4,6 @@ class Person
     puts "Hello"
   end 
   
+  def 
+  
 end
